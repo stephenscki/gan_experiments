@@ -1,5 +1,5 @@
-# gan_experiments
-playing around with styleGAN to futher understanding
+# stylegan experiment
+playing around with styleGAN with my own images to futher understanding
 
 ## background
 I wanted to see if I can use [StyleGAN](https://github.com/NVlabs/stylegan) on my own images instead of human faces with limited computational resources like with a GTXS 1080 TI and limited RAM. I wanted to use images that are quite similar to each other, and I decided to use space related images (stars, planets, moon, etc) because they at least share a similar background which can be significant and impact results if there is significant disparity, and space is cool. 
