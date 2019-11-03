@@ -12,6 +12,7 @@ Good example:
 ![image](good_results/example333.png)                               
 
 Bad example:
+
 ![image](bad_results/example18.png) 
 
 
