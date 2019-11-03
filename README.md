@@ -16,5 +16,6 @@ Bad example:
 ![image](bad_results/example18.png) 
 
 
+
 inspired by similar project done with StyleGAN but with anime girl faces ([link](https://www.gwern.net/Faces)) 
 
